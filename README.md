@@ -4,7 +4,7 @@ This project creates a real-time graph using C++ with OpenGL and GLUT. The graph
 
 ## Screenshots
 
-![Screenshot 1](/src/Screenshot1.pn)
+![Screenshot 1](/src/Screenshot1.png)
 *Caption for Screenshot 1*
 
 ![Screenshot 2](/src/Screenshot2.png)
