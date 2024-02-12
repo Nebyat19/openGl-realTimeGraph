@@ -15,7 +15,7 @@ This project creates a real-time graph using C++ with OpenGL and GLUT. The graph
 
 ## Video
 
-[![Video Demo](/src/Screen.webm)](/src/Screen.webm)
+![Video Demo](/src/Screen.webm)
 *Click the image above to watch the video demo*
 
 ## Dependencies
@@ -29,8 +29,7 @@ This project creates a real-time graph using C++ with OpenGL and GLUT. The graph
 1. Connect your Arduino sensor to your computer via USB.
 2. Upload the provided Arduino sketch to your Arduino board.
 3. Compile and run the C++ code on your computer.
-4. Follow the on-screen instructions to visualize the sensor data in real-time.
 
-## How to Run
 
-1. Clone the repository:
+
+
