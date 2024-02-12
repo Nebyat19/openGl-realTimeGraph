@@ -15,7 +15,7 @@ This project creates a real-time graph using C++ with OpenGL and GLUT. The graph
 
 ## Video
 
-![Video Demo](/src/Screen.webm)
+![Video Demo](/Screen.webm)
 *Click the image above to watch the video demo*
 
 ## Dependencies
